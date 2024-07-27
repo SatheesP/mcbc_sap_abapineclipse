@@ -1,5 +1,5 @@
 # mcbc_sap_abapineclipse
-Master Class - ABAP in Eclipse - BOOTCAMP
+Master Class | ABAP in Eclipse - BOOTCAMP
 
 * Introduction
 * Installation of Eclipse with ADT
